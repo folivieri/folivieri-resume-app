@@ -21,7 +21,8 @@
     "redux": "^3.7.1",
     "redux-multi": "^0.1.12",
     "redux-promise": "^0.5.3",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "react-vertical-timeline-component": "^2.0.3"
   },
   "scripts": {
     "start": "webpack-dashboard -c cyan -- react-scripts start",
