@@ -9,7 +9,7 @@ class StarWarsSummary extends React.Component {
         <div id='titles'>
           <div id='titlecontent' className='titlecontentclass'>
 
-            <p className='center'>EPISODE I<br />A NEW HOPE FOR CLEARCAPITAL</p>
+            <p className='center'>EPISODE I<br />A NEW HOPE FOR CLEAR CAPITAL</p>
 
             <p>The company has been searching for someone to help their efforts.</p>
 
