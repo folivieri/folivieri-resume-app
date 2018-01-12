@@ -21,6 +21,7 @@
   z-index: 1;
   background: rgba(0, 0, 0, 0.3);
   margin-top: 20vh;
+  width: 84vw;
 }
 .ResumeHomeBlock-headline span {
   font-family: 'Suranna', "Helvetica Neue", Helvetica, sans-serif;
@@ -32,6 +33,9 @@
   font-family: 'Josefin Slab', "Helvetica Neue", Helvetica, sans-serif;
   font-weight: lighter;
   font-size: 1.5em;
+}
+.ResumeHomeBlock-headline img {
+  width: 80vw;
 }
 .vertical-timeline-element--work ul {
   font-family: 'Comfortaa', "Helvetica Neue", Helvetica, sans-serif;
@@ -330,9 +334,6 @@ p#start
   text-align: center;
   vertical-align: middle;
   padding-top: 130px;
-  background: url(img/deathstar.png) center 45%;
-  background-size: 400px 400px;
-  background-repeat: no-repeat;
   opacity: .5;
 }
 
@@ -347,6 +348,9 @@ p#start
   opacity: .75;
   font-size: larger;
   z-index: 10;
+  background: url(/static/media/deathstar.b932fb0b.png) center 45%;
+  background-repeat: no-repeat;
+  background-size: 400px 400px;
 }
 .skillGraph * .pie-chart-slice:hover {
   opacity: 0 !important;
