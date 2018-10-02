@@ -7,7 +7,7 @@ import DevTools from './components/DevTools'
 import Routes from './rootRoutes'
 
 // NOTE: React Router v4 uses seperate imports for dom and native now!
-// It also automatically creates a history object for you.
+// It also automatically creates a history object
 
 const ApplicationNode = ({store}) => {
   return (

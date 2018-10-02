@@ -6,7 +6,7 @@ const Header = props => {
   return (
     <div styleName='App-header'>
       <img src={logo} styleName='App-logo' alt='logo' />
-      <h2>Welcome to Clear Capital React!</h2>
+      <h2>Welcome to React!</h2>
     </div>
   )
 }
